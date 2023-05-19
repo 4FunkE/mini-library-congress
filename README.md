@@ -4,3 +4,8 @@ In this Mini Project, I am working with a bunch of collaborative colleagues, to 
 The end result will provide users with access to vast amounts of resources available throughout the Library of Congress
 
 # Collaboraters
+
+https://github.com/jaldhara21/ <br>
+https://github.com/Christina2208 <br>
+https://github.com/4FunkE <br>
+https://github.com/TheWiseSailor <br>
